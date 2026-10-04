@@ -11,8 +11,7 @@ Responsive landing page built with HTML, CSS and JavaScript.
 ## Features
 
 - Responsive design
-- Mobile navigation menu
-- Burger menu
+- Mobile burger menu
 - CSS Flexbox and Grid
 - Keyboard navigation with Escape
 
